@@ -1,3 +1,7 @@
+# File to ignore files when pushing to GitHub
+# https://github.com/github/gitignore
+
+
 # ------------------------------------------------------------
 # To ignore unwanted files from: Node.js
 # (Last update: 2021-12-23)
