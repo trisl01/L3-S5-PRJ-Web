@@ -276,3 +276,20 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+# ------------------------------------------------------------
+# To ignore unwanted files from: Vue.js
+# (Last update: 2018-08-28)
+# ------------------------------------------------------------
+
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
