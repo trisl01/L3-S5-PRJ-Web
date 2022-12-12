@@ -23,3 +23,12 @@ come up with different styles, layout, color themes, images and most important t
 the same topics of selling socks!
 
 As I always mention, please feel free to add more features and go beyond the instructions if you want. You can also use “SFC” idea with “Vite” tools if you like, for more details and intensive explanation, you can refer to my GitHub code and ReadMe file (the link above). However, following tutorial instruction to accomplish your final project is all what’s required in this project, anything beyond is up to you.
+
+## Get started
+In the terminal, run:
+```bash
+npm install
+```
+```bash
+npm run dev
+```
