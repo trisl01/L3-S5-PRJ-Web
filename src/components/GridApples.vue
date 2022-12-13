@@ -5,5 +5,7 @@
 
 <template>
   <div class="container">
+    <div class="d-flex flex-wrap">
+    </div>
   </div>
 </template>
