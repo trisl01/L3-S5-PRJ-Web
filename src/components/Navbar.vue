@@ -5,4 +5,6 @@
 </script>
 
 <template>
+  <nav class="bg-white">
+  </nav>
 </template>
