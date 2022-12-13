@@ -5,7 +5,7 @@
 
 <template>
   <div class="container">
-    <h1>Apple Store</h1>
+    <h1 class="font-lobster-two">Apple Store</h1>
     <br>
     <div class="d-flex flex-wrap">
       <AppleCardVue 
