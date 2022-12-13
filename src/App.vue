@@ -9,4 +9,5 @@
 <template>
   <NavbarVue :cart="cart"/>
   <GridApplesVue @add-to-cart="(i) => cart += i"/>
+  <FooterVue/>
 </template>
