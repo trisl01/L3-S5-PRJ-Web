@@ -25,3 +25,28 @@
     </div>
   </nav>
 </template>
+
+<style scoped>
+  nav {
+    position: sticky;
+    display: block;
+    top: 0;
+  }
+  
+  nav li {
+    margin-left: 5px;
+  }
+
+  .nav-link {
+    cursor: pointer;
+  }
+
+  #img-logo {
+    height: 50px;
+  }
+
+  #text-logo {
+    font-size: 27px !important;
+    font-style: italic !important;
+  }
+</style>
