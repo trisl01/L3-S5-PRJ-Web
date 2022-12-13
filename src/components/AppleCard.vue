@@ -24,6 +24,8 @@
                 <p class="card-text">{{ description }}</p>
                 <p class="card-text">{{ bestMonths }}</p>
               </div>
+              <button type="button" class="btn btn-primary"
+              </button>
           </div>
         </div>
       </div>
