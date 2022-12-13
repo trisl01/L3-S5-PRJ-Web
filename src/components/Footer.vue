@@ -9,6 +9,7 @@
         <li class="nav-item"><a href="/" class="nav-link px-2 text-muted">Shop</a></li>
         <li class="nav-item"><a href="/" class="nav-link px-2 text-muted">Cart</a></li>
       </ul>
+      <p class="text-center text-muted">Copyright &copy; 2022 Tristan LOYE, Arthur BUISSON, Luc MARIN - All rights reserved</p>
     </footer>
   </div>
 </template>
