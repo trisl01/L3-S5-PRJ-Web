@@ -26,7 +26,7 @@
                 <p class="card-text">{{ bestMonths }}</p>
               </div>
             </div>
-            <div class="mt-30" style="text-align: center;">
+            <div class="section-add-to-cart mt-30" style="text-align: center;">
               <p v-if="stock < 30"
                 :class="{ 'text-muted': stock < 30 && stock >= 10, 'text-warning': stock < 10, 'd-none': stock <= 0 }">Almost out of stock! ({{ stock }})</p>
               <p class="text-danger " 
@@ -49,6 +49,11 @@
 <style>
   .card-body button .btn-secondary {
     cursor: not-allowed !important;
+  }
+
+  .card-body .section-add-to-cart p {
+    margin-bottom: 0;
+    font-size: 10px;
   }
 
   .container-apple {
