@@ -10,4 +10,6 @@
 </script>
 
 <template>
+  <div class="container container-apple" style="max-width: 200px;">
+  </div>
 </template>
