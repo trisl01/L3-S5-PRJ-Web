@@ -6,5 +6,7 @@
 
 <template>
   <nav class="bg-white">
+    <div class="container">
+    </div>
   </nav>
 </template>
