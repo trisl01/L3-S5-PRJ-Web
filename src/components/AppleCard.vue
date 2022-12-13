@@ -25,6 +25,7 @@
                 <p class="card-text">{{ bestMonths }}</p>
               </div>
               <button type="button" class="btn btn-primary"
+                @click="$emit('add-to-cart', stock--)"
               </button>
           </div>
         </div>
