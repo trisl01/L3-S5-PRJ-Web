@@ -29,6 +29,8 @@
             <div class="mt-30" style="text-align: center;">
               <p v-if="stock < 30"
                 :class="{ 'text-muted': stock < 30 && stock >= 10, 'text-warning': stock < 10, 'd-none': stock <= 0 }">Almost out of stock! ({{ stock }})</p>
+              <p class="text-danger " 
+                v-if="stock == 0">Out of stock!</p>
               <button type="button" class="btn btn-primary"
                 @click="$emit('add-to-cart', stock--)"
                 :disabled="stock <= 0"
