@@ -15,6 +15,7 @@
       <div class="col-12">
         <div class="card" style="min-height: 350px;">
           <div class="card-body d-flex flex-column justify-content-between">
+            <div>
               <div style="text-align: center;">
                 <img style="width: 100px; height: 100px;" :src="image" :alt="name" />
               </div>
@@ -24,6 +25,8 @@
                 <p class="card-text">{{ description }}</p>
                 <p class="card-text">{{ bestMonths }}</p>
               </div>
+            </div>
+            <div class="mt-30" style="text-align: center;">
               <button type="button" class="btn btn-primary"
                 @click="$emit('add-to-cart', stock--)"
                 :disabled="stock <= 0"
@@ -31,6 +34,7 @@
                 <i class="bi bi-cart-plus"></i>
                 <span class="ml-10">Add to cart</span>
               </button>
+            </div>
           </div>
         </div>
       </div>
