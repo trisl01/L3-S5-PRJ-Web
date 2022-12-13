@@ -13,7 +13,7 @@
   <div class="container container-apple" style="max-width: 200px;">
     <div class="row">
       <div class="col-12">
-        <div class="card" style="min-height: 350px;">
+        <div class="card" style="min-height: 360px;">
           <div class="card-body d-flex flex-column justify-content-between">
             <div>
               <div style="text-align: center;">
