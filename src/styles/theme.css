@@ -2,5 +2,5 @@
 /*@import url(./colors.module.css);*/
 @import url(./fonts.css);
 @import url(./styles.css);
-@import url(./bootstrap/bootstrap.min.css);
+@import url(../assets/bootstrap/bootstrap.min.css);
 @import url(./fonts/bootstrap-icons.css);
