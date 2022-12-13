@@ -41,3 +41,13 @@
     </div>
   </div>
 </template>
+
+<style>
+  .card-body button .btn-secondary {
+    cursor: not-allowed !important;
+  }
+
+  .container-apple {
+    margin: 10px;
+  }
+</style>
