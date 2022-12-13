@@ -15,6 +15,9 @@
       <div class="col-12">
         <div class="card" style="min-height: 350px;">
           <div class="card-body d-flex flex-column justify-content-between">
+              <div style="text-align: center;">
+                <img style="width: 100px; height: 100px;" :src="image" :alt="name" />
+              </div>
           </div>
         </div>
       </div>
