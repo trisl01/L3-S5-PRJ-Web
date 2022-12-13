@@ -28,6 +28,8 @@
                 @click="$emit('add-to-cart', stock--)"
                 :disabled="stock <= 0"
                 :class="{ 'btn-secondary': stock <= 0 }">
+                <i class="bi bi-cart-plus"></i>
+                <span class="ml-10">Add to cart</span>
               </button>
           </div>
         </div>
