@@ -1,5 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+  import { ref } from 'vue'
+  import NavbarVue from './components/Navbar.vue'
+  import GridApplesVue from './components/GridApples.vue';
+  import FooterVue from './components/Footer.vue';
+  const cart = ref(0);
 </script>
 
 <template>
