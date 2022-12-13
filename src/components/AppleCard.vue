@@ -18,6 +18,12 @@
               <div style="text-align: center;">
                 <img style="width: 100px; height: 100px;" :src="image" :alt="name" />
               </div>
+              <div>
+                <h5 class="card-title">{{ name }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ price }}</h6>
+                <p class="card-text">{{ description }}</p>
+                <p class="card-text">{{ bestMonths }}</p>
+              </div>
           </div>
         </div>
       </div>
