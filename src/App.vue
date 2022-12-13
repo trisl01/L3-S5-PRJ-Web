@@ -7,4 +7,5 @@
 </script>
 
 <template>
+  <NavbarVue :cart="cart"/>
 </template>
