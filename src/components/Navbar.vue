@@ -12,6 +12,15 @@
           <img id="img-logo" src="../assets/logo.png" alt="" srcset="">
           <span id="text-logo" class="fs-4 font-lobster-two"><i class="italic">Pomme</i></span>
         </a>
+
+        <ul class="nav nav-pills">
+          <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="/" class="nav-link active">Shop</a></li>
+          <li class="nav-item"><a href="/" class="btn btn-info">
+            <i :class="{ 'bi bi-cart': cart <= 0, 'bi bi-cart-fill': cart > 0 }"></i>
+            <span class="ml-10">{{ cart }}</span>
+          </a></li>
+        </ul>
       </header>
     </div>
   </nav>
