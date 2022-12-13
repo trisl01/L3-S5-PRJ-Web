@@ -1,130 +1,146 @@
 [
   {
+    "id": 1,
     "name": "Ambrosia",
     "price": "$1.45",
     "stock": 268,
     "description": "Crunchy, Juicy, Aromatic, Taste of honey",
     "best-months": "October to March",
-    "image": "./assets/apple-img/ambrosia.png"
+    "image": "/src/assets/apple-img/ambrosia.png"
   },
   {
+    "id": 2,
     "name": "Cortland",
     "price": "$1.18",
     "stock": 8271,
     "description": "Crunchy, Sweet, Don't brown",
     "best-months": "October to April",
-    "image": "./assets/apple-img/cortland.jpg"
+    "image": "/src/assets/apple-img/cortland.png"
   },
   {
+    "id": 3,
     "name": "Crispin",
     "price": "$1.25",
     "stock": 1029,
     "description": "Sweet, firm texture",
     "best-months": "October to April",
-    "image": "./assets/apple-img/crispin.jpg"
+    "image": "/src/assets/apple-img/crispin.png"
   },
   {
+    "id": 4,
     "name": "Empire",
     "price": "$0.88",
     "stock": 21827,
     "description": "Crunchy, Sweet, Firm",
     "best-months": "October to July",
-    "image": "./assets/apple-img/empire.jpg"
+    "image": "/src/assets/apple-img/empire.png"
   },
   {
+    "id": 5,
     "name": "Fuji",
     "price": "$1.58",
     "stock": 2309,
     "description": "Crip, Juicy, Sweet",
     "best-months": "mid-late October to early February",
-    "image": "./assets/apple-img/fuji.jpg"
+    "image": "/src/assets/apple-img/fuji.png"
   },
   {
+    "id": 6,
     "name": "Gala",
     "price": "$1.38",
     "stock": 0,
     "description": "Very crunchy, very sweet, aromatic",
     "best-months": "early September to February",
-    "image": "./assets/apple-img/gala.jpg"
+    "image": "/src/assets/apple-img/gala.png"
   },
   {
+    "id": 7,
     "name": "Golden Delicious",
     "price": "$1.21",
     "stock": 10211,
     "description": "Juicy, sweet, aromatic",
     "best-months": "October to May",
-    "image": "./assets/apple-img/golden-delicious.jpg"
+    "image": "/src/assets/apple-img/golden-delicious.png"
   },
   {
+    "id": 8,
     "name": "Honeycrisp",
     "price": "$2.11",
     "stock": 666,
     "description": "Exceptional taste, very crunchy, juicy",
     "best-months": "late September to March",
-    "image": "./assets/apple-img/honeycrisp.jpg"
+    "image": "/src/assets/apple-img/honeycrisp.png"
   },
   {
+    "id": 9,
     "name": "Idared",
     "price": "$0.99",
     "stock": 2872,
     "description": "Sweet, Tart, Juicy",
     "best-months": "October to July",
-    "image": "./assets/apple-img/idared.jpg"
+    "image": "/src/assets/apple-img/idared.png"
   },
   {
+    "id": 10,
     "name": "Jonagold",
     "price": "$1.01",
     "stock": 27725,
     "description": "Firm, Sweet, Crisp",
     "best-months": "late September to February",
-    "image": "./assets/apple-img/jonagold.jpg"
+    "image": "/src/assets/apple-img/jonagold.png"
   },
   {
+    "id": 11,
     "name": "McIntosh",
     "price": "$1.10",
     "stock": 62728,
     "description": "Crunchy, Juicy, Aromatic",
     "best-months": "mid September to May",
-    "image": "./assets/apple-img/mcintosh.jpg"
+    "image": "/src/assets/apple-img/mcintosh.png"
   },
   {
+    "id": 12,
     "name": "Northern Spy",
     "price": "$1.26",
     "stock": 62514,
     "description": "Tart, Sweet, Pear-like",
     "best-months": "October to May",
-    "image": "./assets/apple-img/northern-spy.jpg"
+    "image": "/src/assets/apple-img/northern-spy.png"
   },
   {
+    "id": 13,
     "name": "Red Delicious",
     "price": "$1.15",
     "stock": 26251,
     "description": "Juicy, sweet, Weakly acidic",
     "best-months": "October to July",
-    "image": "./assets/apple-img/red-delicious.jpg"
+    "image": "/src/assets/apple-img/red-delicious.png"
   },
   {
+    "id": 14,
     "name": "Red Prince",
     "price": "$1.35",
     "stock": 7624,
     "description": "Tangy, Sweet, Crisp",
     "best-months": "February to June",
-    "image": "./assets/apple-img/red-prince.jpg"
+    "image": "/src/assets/apple-img/red-prince.png"
   },
   {
+    "id": 15,
     "name": "Russet",
     "price": "$1.05",
     "stock": 62542,
     "description": "Sweet, Tangy, Acid",
     "best-months": "late October to January",
-    "image": "./assets/apple-img/russet.jpg"
+    "image": "/src/assets/apple-img/russet.png"
   },
   {
+    "id": 16,
     "name": "Spartan",
     "price": "$1.15",
     "stock": 2345,
     "description": "Crunchy, semi-acid, Quite sweet",
     "best-months": "October to April",
-    "image": "./assets/apple-img/spartan.jpg"
+    "image": "/src/assets/apple-img/spartan.png"
   }
 ]
